@@ -1,5 +1,19 @@
 # Qalender 🗓️
 
+
+## Tech Stack 🛠️:
+
+- Phosphor React: as a Icons library;
+- Next.js: as a framework;
+- Typescript: as a language;
+- Zod: as a validation library;
+- [Rocketseat ESLint](https://github.com/rocketseat/eslint-config) as a linter;
+- [Stitches](https://github.com/stitchesjs/stitches) as a CSS-in-JS library;
+- React Hook Form: as a form library;
+- [Quad UI](https://github.com/gamadv/quad-ui-system) as a UI library;
+- [Prisma](https://github.com/prisma/prisma) as a database ORM library;
+- Axios as a HTTP library.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
